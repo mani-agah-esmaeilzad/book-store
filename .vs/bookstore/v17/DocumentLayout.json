@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javad\\source\\repos\\bookstore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\models\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:models\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|c:\\users\\javad\\source\\repos\\bookstore\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6FA1EB-59CE-4B0C-9431-C5922E16EF8D}|bookstore.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\Coupon.cs",
+              "RelativeToolTip": "Models\\Coupon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:11:18.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:11:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:10:03.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\AdminUsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminUsersController.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\AdminUsersController.cs",
+              "RelativeToolTip": "Controllers\\AdminUsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:08:52.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\AdminUser.cs",
+              "RelativeDocumentMoniker": "Models\\AdminUser.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\AdminUser.cs",
+              "RelativeToolTip": "Models\\AdminUser.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:08:01.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Controllers\\ReviewsController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:07:02.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:06:26.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAcwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:03:52.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:01:01.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA0wEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:01:41.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:54:55.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:05:39.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:04:59.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:02:27.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:03:04.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:58:17.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:59:45.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:58:57.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:57:45.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\javad\\source\\repos\\bookstore\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:56:52.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
